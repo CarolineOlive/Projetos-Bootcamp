@@ -20,7 +20,7 @@ O foco atual tem sido o desenvolvimento de novos métodos terapêuticos, incluin
 
 ### OBJETIVO
 
-O projeto desenvolvido teve como objetivo prever quais pacientes precisarão ser admitidos na unidade de terapia intensiva, usando dados clínicos individuais, e assim, definir qual a necessidade de leitos de UTI do hospital, a partir dos dados clínicos individuais disponíveis. Para tal, foram construidos modelos com as técnicas de Machine Learning.
+O projeto desenvolvido teve como objetivo prever quais pacientes precisarão ser admitidos na unidade de terapia intensiva e, assim, definir qual a necessidade de leitos de UTI do hospital, a partir dos dados clínicos individuais disponíveis. Para tal, foram construidos modelos com as técnicas de Machine Learning.
 
 Os dados utilizados foram disponibilizados no kaggle pelo time de ciência de dados do Hospital Sírio Libanês e podem ser acessados por este link (https://www.kaggle.com/S%C3%ADrio-Libanes/covid19).
 
