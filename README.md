@@ -11,7 +11,7 @@ O projeto desenvolvido teve como objetivo prever quais pacientes precisarão ser
 | :fire: Desafio     | 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![projeto_final_post_linkedin](https://user-images.githubusercontent.com/73675930/190929248-d4940efe-99c7-4740-80dd-4ce7aee16020.png)
+![projeto_final_post_linkedin](https://user-images.githubusercontent.com/73675930/190929248-d4940efe-99c7-4740-80dd-4ce7aee16020.png#vitrinedev)
 
 ## Projeto Final | Bootcamp Data Science 2021 - Alura
 
