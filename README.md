@@ -1,4 +1,17 @@
 # Projetos-Bootcamp
+## Projeto Final | Bootcamp Data Science 2021 - Alura
+
+O projeto desenvolvido teve como objetivo prever quais pacientes precisarão ser admitidos na unidade de terapia intensiva e, assim, definir qual a necessidade de leitos de UTI do hospital, a partir dos dados clínicos individuais disponíveis. Para tal, foram construidos modelos com as técnicas de Machine Learning.
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Machine Learning e Covid19 - Prevendo a necessidade de vagas em UTIs**
+| :label: Tecnologias | python, pandas, sklearn
+| :rocket: URL         | https://github.com/CarolineOlive/Projetos-Bootcamp/blob/master/Caroline_Oliveira_Projeto_Final_Bootcamp_Data_Science_2021.ipynb
+| :fire: Desafio     | 
+
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![projeto_final_post_linkedin](https://user-images.githubusercontent.com/73675930/190929248-d4940efe-99c7-4740-80dd-4ce7aee16020.png)
 
 ## Projeto Final | Bootcamp Data Science 2021 - Alura
 
