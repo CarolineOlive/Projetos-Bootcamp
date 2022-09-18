@@ -42,11 +42,13 @@ Os dados utilizados foram disponibilizados no kaggle pelo time de ciência de da
 O projeto foi desenvolvido seguindo as recomendações do time do hospital Sírio-Libanês:
 
   * Cuidado para não usar os dados quando a variável de destino estiver presente, pois a ordem do evento é desconhecida (talvez o evento de destino tenha acontecido antes de os resultados serem obtidos). Eles foram mantidos lá para que possamos aumentar este conjunto de dados em outros resultados posteriormente.
-  
-![alt text](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1591620%2Fb1bc424df771a4d2d3b3088606d083e6%2FTimeline%20Example%20Best.png?generation=1594740856017996&alt=media)
 
   * A identificação precoce dos pacientes que desenvolverão um curso adverso da doença (e precisam de cuidados intensivos) é a chave para um tratamento adequado (salvar vidas) e para gerenciar leitos e recursos. Portanto, um bom modelo preditivo usando apenas a primeira janela de tempo (0-2) provavelmente será mais clinicamente relevante.
 
   * Atenção às medidas repetidas em indivíduos, uma vez que esses valores são (positivamente) correlacionados.
 
 O banco de dados é composto por 54 variáveis, contendo informações demográficas, doenças pré-existentes, resultados de exames de sangue e sinais vitais.
+
+### ETAPAS | RESUMO
+![resumo_projeto_final_bootcamp](https://user-images.githubusercontent.com/73675930/190929457-cfe50ee5-4749-4da6-a986-12ec2386a94d.png)
+
